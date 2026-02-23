@@ -1,6 +1,7 @@
 # Hedge Fund Time Series Forecasting
 
 Financial forecasting project using LightGBM to model multi-horizon time-series behavior in hedge fund data.
+Kaggle competition: https://www.kaggle.com/competitions/ts-forecasting/overview
 
 ---
 
